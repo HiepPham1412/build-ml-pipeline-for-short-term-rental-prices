@@ -38,7 +38,7 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/build-ml-pipeline-for-short-term-rental-prices.git
+git clone https://github.com/HiepPham1412/build-ml-pipeline-for-short-term-rental-prices.git
 ```
 
 and go into the repository:
@@ -516,7 +516,7 @@ activate it explicitly on the command line:
 ```
 
 ### Visualize the pipeline
-You can now go to W&B, go the Artifacts section, select the model export artifact then click on the
+You can now go to W&B (https://wandb.ai/hiep_pham/nyc_airbnb?workspace=user-hiep_pham), go the Artifacts section, select the model export artifact then click on the
 ``Graph view`` tab. You will see a representation of your pipeline.
 
 ### Release the pipeline
